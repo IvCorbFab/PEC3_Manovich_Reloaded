@@ -1,4 +1,4 @@
-﻿# Visionando el futuro con las gafas de Manovich: Redescubriendo la HIBRIDACIÓN
+# Visionando el futuro con las gafas de Manovich: Redescubriendo la HIBRIDACIÓN
 
 **Lev Manovich** en sus obras nos explica el concepto de hibridación. La **hibridación** es un proceso de remediación (entendiendo este concepto como una fusión de los medios).
 
@@ -13,6 +13,7 @@ El resultado de la hibridación **no es tan solo la suma mecánica** de las part
 El primer juego de **_InviZimals_** se lanza en 2009 para la consola **PSP**. Este juego nace en una **empresa española de desarrollo llamada Novarama** y Sony se encarga de comercializarlo. Lo que hace especial a este videojuego es el uso de la **realidad aumentada** para jugarlo, ya que trata sobre una especie nueva llamada _InviZimals_, que la vista humana no es capaz de percibir y para interactuar con ellos necesitaremos **una tarjeta** donde se sitúan los _InviZimals_, la consola **PSP** y la **Go!Cam** (una cámara que se conecta al puerto frontal de la consola).
 
 ![Todos los elementos necesarios para jugar a InviZimals. Fuente: Vandal.elespanol.com](https://media.vandal.net/m/10878/2010423152645_1.jpg)
+>Todos los elementos necesarios para jugar a InviZimals. Fuente: [Vandal](https://media.vandal.net/m/10878/2010423152645_1.jpg)
 
 El juego comienza en los laboratorios de Sony, donde se descubrirán estas criaturas invisibles al ojo humano y nuestra misión será capturarlos e investigarlos.
 
@@ -33,11 +34,13 @@ Además de ser un ejemplo de hibridación al juntar varias mecánicas para crear
 Actualmente _Invizimals_ se centra en los dispositivos móviles, intentando agarrarse al tirón de juegos como _Pokémon GO_ y a la nostalgia de quienes probaron el primer videojuego de _Invizimals_ en PSP, pero el resultado no es bueno porque está muy alejado de juegos similares en número de descargas.
 
 ![Capturando un Pokémon en Pokémon GO. Fuente: Pokemongolive.com](https://lh3.googleusercontent.com/RGShDyVofSODXIJ0eQ9umAID8tCw9KdqBFrtgCEdrxjJijG1qZBryfECP9IRV1MOJhCk4Za4VYB34DE-hnPesZNNVYMwgHKs9KrNue3LNJRJuw=rw-e365-w1440)
+>Capturando un Pokémon en Pokémon GO. Fuente: [Pokemon Go Live](https://pokemongolive.com/?hl=es)
 
 Invizimals es un ejemplo de ir un paso más allá, de romper una barrera en un ámbito tecnológico. Novarama consiguió revolucionar el sector de los videojuegos y marcar un precedente en juegos con realidad aumentada que estamos tan acostumbrados a utilizar hoy en día.
 
 ## Ejemplo 2: AUDIBLE
 ![Logo de Audible. Fuente: Wikipedia.org](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Audible_logo.svg/512px-Audible_logo.svg.png)
+>Logo de Audible. Fuente: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Audible_logo.svg/512px-Audible_logo.svg.png)
 
 Audible es una **empresa venta y producción de contenido en formato audio**. Audible ofrece audiolibros digitales, versiones de revistas o periódicos, programas de radio y televisión y pódcast.
 
@@ -67,21 +70,22 @@ La diferencia entre abrir un reproductor de audio y ser usuario de Audible es co
 Audible no es un reproductor de audiolibros, es un **ecosistema amplio** para suplir todas las necesidades que podría tener la gente que prefiere consumir contenido en ese formato.
 
 ![Interfaz de Audible. Fuente: Androidjefe.com](https://www.androidjefe.com/wp-content/uploads/2017/02/audible-steve-jobs.jpg)
+>Interfaz de Audible. Fuente: [Androidjefe](https://www.androidjefe.com/wp-content/uploads/2017/02/audible-steve-jobs.jpg)
 
 ## Bibliografía y webgrafía
 
-Manovich, L. [Lev Manovich]. (2013). _El software toma el mando_. UOCPress - Comunicación. Disponible en: [https://www.editorialuoc.com/el-software-toma-el-mando](https://www.editorialuoc.com/el-software-toma-el-mando)
+>Manovich, L. [Lev Manovich]. (2013). _El software toma el mando_. UOCPress - Comunicación. Disponible en: [https://www.editorialuoc.com/el-software-toma-el-mando](https://www.editorialuoc.com/el-software-toma-el-mando)
 
-_Multimedia UOC_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+>_Multimedia UOC_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 
-_Wikipedia_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://es.wikipedia.org/wiki/Invizimals](https://es.wikipedia.org/wiki/Invizimals)
+>_Wikipedia_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://es.wikipedia.org/wiki/Invizimals](https://es.wikipedia.org/wiki/Invizimals)
 
-_Vandal_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://vandal.elespanol.com/sagas/invizimals](https://vandal.elespanol.com/sagas/invizimals)
+>_Vandal_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://vandal.elespanol.com/sagas/invizimals](https://vandal.elespanol.com/sagas/invizimals)
 
-_Devuego_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://www.devuego.es/blog/2013/12/23/invizimals-el-inicio-de-la-franquicia-espanola-de-mayor-exito/](https://www.devuego.es/blog/2013/12/23/invizimals-el-inicio-de-la-franquicia-espanola-de-mayor-exito/)
+>_Devuego_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://www.devuego.es/blog/2013/12/23/invizimals-el-inicio-de-la-franquicia-espanola-de-mayor-exito/](https://www.devuego.es/blog/2013/12/23/invizimals-el-inicio-de-la-franquicia-espanola-de-mayor-exito/)
 
-_Audible_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://www.audible.es/](https://www.audible.es/)
+>_Audible_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://www.audible.es/](https://www.audible.es/)
 
-_Markdown_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://markdown.es/editores-markdown/](https://markdown.es/editores-markdown/)
+>_Markdown_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://markdown.es/editores-markdown/](https://markdown.es/editores-markdown/)
 
-_Stackedit_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://stackedit.io/](https://stackedit.io/)
+>_Stackedit_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://stackedit.io/](https://stackedit.io/)
