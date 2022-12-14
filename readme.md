@@ -42,7 +42,7 @@ Invizimals es un ejemplo de ir un paso más allá, de romper una barrera en un �
 ![Logo de Audible. Fuente: Wikipedia.org](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Audible_logo.svg/512px-Audible_logo.svg.png)
 >Logo de Audible. Fuente: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Audible_logo.svg/512px-Audible_logo.svg.png)
 
-Audible es una **empresa venta y producción de contenido en formato audio**. Audible ofrece audiolibros digitales, versiones de revistas o periódicos, programas de radio y televisión y pódcast.
+Audible es una **empresa venta y producción de contenido en formato audio**. Audible ofrece audiolibros, versiones de revistas o periódicos, programas de radio y televisión y pódcast.
 
 A través de **Audible Studios**, es capaz de **producir su propio contenido en formato de audio**. ​En 2008 **Amazon decidió comprar las acciones de Audible Inc**. y ahora es una empresa más dentro del conjunto de Amazon.
 
