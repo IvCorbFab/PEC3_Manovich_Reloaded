@@ -1,4 +1,5 @@
-# Visionando el futuro con las gafas de Manovich: Redescubriendo la HIBRIDACIÓN
+# Visionando el futuro con las gafas de Manovich:
+# Redescubriendo la HIBRIDACIÓN
 
 **Lev Manovich** en sus obras nos explica el concepto de hibridación. La **hibridación** es un proceso de remediación (entendiendo este concepto como una fusión de los medios).
 
