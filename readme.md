@@ -1,4 +1,4 @@
-# Visionando el futuro con las gafas de Manovich: HIBRIDACIÓN
+# Visionando el futuro con las gafas de Manovich: Redescubriendo la HIBRIDACIÓN
 
 **Lev Manovich** en sus obras nos explica el concepto de hibridación. La **hibridación** es un proceso de remediación (entendiendo este concepto como una fusión de los medios).
 
@@ -10,7 +10,7 @@ El resultado de la hibridación **no es tan solo la suma mecánica** de las part
 
 ## Ejemplo 1: INVIZIMALS
 
-El primer juego de **_InviZimals_** se lanza en 2009 para la consola **PSP**. Este juego nace en una **empresa española de desarrollo llamada Novarama** y Sony se encarga de comercializarlo. Lo que hace especial a este videojuego es el uso de la **realidad aumentada** para jugarlo, ya que trata sobre una especie nueva llamada _InviZimals_, que la vista humana no es capaz de percibir y para interactuar con ellos necesitaremos **una tarjeta** donde se sitúan los _InviZimals_, la consola **PSP** y la **Go!Cam** (una cámara que se conecta al puerto frontal de la consola).
+El primer juego de **_InviZimals_** se lanza en 2009 para la consola **PSP**. Este juego nace en una empresa española de desarrollo llamada **Novarama** y Sony se encarga de comercializarlo. Lo que hace especial a este videojuego es el uso de la **realidad aumentada** para jugarlo, ya que trata sobre una especie nueva llamada _InviZimals_, que la vista humana no es capaz de percibir y para interactuar con ellos necesitaremos **una tarjeta** donde se sitúan los _InviZimals_, la consola **PSP** y la **Go!Cam** (una cámara que se conecta al puerto frontal de la consola).
 
 ![Todos los elementos necesarios para jugar a InviZimals. Fuente: Vandal.elespanol.com](https://media.vandal.net/m/10878/2010423152645_1.jpg)
 >Todos los elementos necesarios para jugar a InviZimals. Fuente: [Vandal](https://media.vandal.net/m/10878/2010423152645_1.jpg)
@@ -38,11 +38,21 @@ Actualmente _Invizimals_ se centra en los dispositivos móviles, intentando agar
 
 Invizimals es un ejemplo de ir un paso más allá, de romper una barrera en un ámbito tecnológico. Novarama consiguió revolucionar el sector de los videojuegos y marcar un precedente en juegos con realidad aumentada que estamos tan acostumbrados a utilizar hoy en día.
 
+### ¿Es _InviZimals_ un ejemplo de hibridación?
+
+Recordemos que la **hibridación** junta diferentes técnicas de software para formar una nueva experiencia. Este proyecto utiliza los elementos de **videojuego** y **realidad aumentada**.
+
+Ya existían juegos de descubrir nuevas criaturas como _Pokémon_. La realidad aumentada pretende mostrarnos el **mundo real con información añadida**, mejorando la experiencia que tiene el humano de interpretar lo que está viendo. Al crear un videojuego de investigar nuevas especies con realidad aumentada, estamos **rompiendo la pared entre videojuego y mundo real**. El resultado es una experiencia de juego que traspasa la pantalla y podemos tener la sensación de que esas criaturas sí que forman parte de nuestro mundo.
+
+En los juegos en los que se interactúa con una nueva especie de criaturas, el jugador desea tener una inmersión mayor, le gustaría formar parte de ese mundo. Con la realidad aumentada lo hacemos al revés, **es el juego el que viene a nuestro mundo**. Otras tecnologías como la realidad virtual nos proporcionan la sensación de que el jugador entra en la historia del juego.
+
+_InviZimals_ es una hibridación porque si quitamos uno de los dos elementos principales (videojuego y realidad aumentada), no habría tenido tanto éxito. Es la nueva forma de jugar la que explica el éxito del juego y la que marca un precedente para juegos mundialmente conocidos y jugados como _Pokémon GO_.
+
 ## Ejemplo 2: AUDIBLE
 ![Logo de Audible. Fuente: Wikipedia.org](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Audible_logo.svg/512px-Audible_logo.svg.png)
 >Logo de Audible. Fuente: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Audible_logo.svg/512px-Audible_logo.svg.png)
 
-Audible es una **empresa venta y producción de contenido en formato audio**. Audible ofrece audiolibros, versiones de revistas o periódicos, programas de radio y televisión y pódcast.
+Audible es una **empresa venta y producción de contenido en formato audio**. Audible ofrece audiolibros digitales, versiones de revistas o periódicos, programas de radio y televisión y pódcast.
 
 A través de **Audible Studios**, es capaz de **producir su propio contenido en formato de audio**. ​En 2008 **Amazon decidió comprar las acciones de Audible Inc**. y ahora es una empresa más dentro del conjunto de Amazon.
 
@@ -74,18 +84,18 @@ Audible no es un reproductor de audiolibros, es un **ecosistema amplio** para su
 
 ## Bibliografía y webgrafía
 
->Manovich, L. [Lev Manovich]. (2013). _El software toma el mando_. UOCPress - Comunicación. Disponible en: [https://www.editorialuoc.com/el-software-toma-el-mando](https://www.editorialuoc.com/el-software-toma-el-mando)
-
->_Multimedia UOC_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
-
->_Wikipedia_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://es.wikipedia.org/wiki/Invizimals](https://es.wikipedia.org/wiki/Invizimals)
-
->_Vandal_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://vandal.elespanol.com/sagas/invizimals](https://vandal.elespanol.com/sagas/invizimals)
-
->_Devuego_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://www.devuego.es/blog/2013/12/23/invizimals-el-inicio-de-la-franquicia-espanola-de-mayor-exito/](https://www.devuego.es/blog/2013/12/23/invizimals-el-inicio-de-la-franquicia-espanola-de-mayor-exito/)
-
->_Audible_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://www.audible.es/](https://www.audible.es/)
-
->_Markdown_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://markdown.es/editores-markdown/](https://markdown.es/editores-markdown/)
-
->_Stackedit_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en: [https://stackedit.io/](https://stackedit.io/)
+ - Manovich, L. [Lev Manovich]. (2013). _El software toma el mando_.    UOCPress - Comunicación. Disponible en:    [https://www.editorialuoc.com/el-software-toma-el-mando](https://www.editorialuoc.com/el-software-toma-el-mando)
+   
+ - _Multimedia UOC_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en:    [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+   
+ - _Wikipedia_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en:    [https://es.wikipedia.org/wiki/Invizimals](https://es.wikipedia.org/wiki/Invizimals)
+   
+ - _Vandal_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en:    [https://vandal.elespanol.com/sagas/invizimals](https://vandal.elespanol.com/sagas/invizimals)
+   
+ - _Devuego_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en:    [https://www.devuego.es/blog/2013/12/23/invizimals-el-inicio-de-la-franquicia-espanola-de-mayor-exito/](https://www.devuego.es/blog/2013/12/23/invizimals-el-inicio-de-la-franquicia-espanola-de-mayor-exito/)
+   
+ - _Audible_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en:    [https://www.audible.es/](https://www.audible.es/)
+   
+ - _Markdown_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en:    [https://markdown.es/editores-markdown/](https://markdown.es/editores-markdown/)
+   
+ - _Stackedit_ [en línea] [consulta: 29 de noviembre de 2022 – 10 de diciembre de 2022]. Disponible en:    [https://stackedit.io/](https://stackedit.io/)
